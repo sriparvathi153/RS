@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "PANDA PANDA",
+    "sonof":"D/O S.SureshBabu",
+    "label": "Developer/Tester",
+    "picture": "images/tenor.gif",
+    "email": "pandapanda123@gmail.com",
+    "phone": "9440293234",
+    "degree": "B.Tech",
+    "website": "",
+    "summary": "",
+    "highlights": null,
+    "location": {
+      "address": "D.NO:28-4-26/1 Santhi Nagar 2nd line",
+      "postalCode": "534007",
+      "city": "Eluru",
+      "countryCode": "India",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "additionalWork": [
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "workLabel": "",
+  "additionalWorkLabel": "",
+  "education": [
+    {
+      "institution": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": "",
+      "isbn": ""
+    }
+  ],
+  "additionalPublications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": "",
+      "isbn": ""
+    }
+  ],
+  "publicationsLabel": "",
+  "additionalPublicationsLabel": "",
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ]
+}

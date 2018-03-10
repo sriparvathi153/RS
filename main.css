@@ -1,0 +1,81 @@
+.mainDiv
+{
+  margin-top: 100px;
+  background-color:#33FFA5;
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid;
+   padding: 50px;
+   box-shadow: 5px 10px;
+     border: 2px solid black;
+     height: 400px;
+}
+.sub1
+{
+  background: #DBFF33;
+  border-radius: 10px;
+   box-shadow: 2px 5px 5px 2px grey;
+
+}
+.sub2
+{
+  background: #FF5733;
+  border-radius: 10px;
+   box-shadow: 2px 5px 5px 2px grey;
+}
+.sub3
+{
+  background: #FFBD33;
+  border-radius: 10px;
+   box-shadow: 2px 5px 5px 2px grey;
+}
+body
+{
+  background: #33FFF6;
+  text-align: center;
+}
+.sub1:hover
+{
+  box-shadow: 4px 5px 0 0 grey;
+}
+.sub2:hover
+{
+  box-shadow: 4px 5px 0 0 grey;
+}
+.sub3:hover
+{
+  box-shadow: 4px 5px 0 0 grey;
+}
+img
+{
+  height: 200px;
+  width: 150px;
+  border-radius: 5px;
+}
+@media all and (max-width:768px)
+{
+  .mainDiv{
+    background: yellow;
+    flex-wrap: wrap;
+    height: auto;
+  }
+.sub1{
+  width: 100%;
+  display: flex;
+  height: 200px;
+}
+.sub2{
+  width: 100%;
+  display: flex;
+    height: 200px;
+}
+.sub3{
+  width: 100%;
+  display: flex;
+    height: 200px;
+}
+img{
+  height: 180px;
+  border-radius: 15px;
+}
+}

@@ -1,0 +1,59 @@
+.mainDiv{
+  background: white;
+  display: flex;
+  justify-content: space-between;
+}
+.leftDiv{
+  background: #EDCB94;
+  width: 25%;
+  height: auto;
+  margin-right: 70%;
+  position: fixed;
+}
+.rightDiv{
+  margin-left: 26%;
+  background: #C4F3F5;
+    width: 74%;
+    padding: 10px;
+
+}
+body{
+  font-family: cursive;
+}
+img{
+  height: 50%;
+  width: 80%;
+}
+@media all and (min-device-width:500px) and (max-device-width:768px) {
+.rightDiv{
+  background: red;
+  width: 100%;
+  margin: 0%;
+
+}
+.mainDiv{
+  width: 100%;
+  flex-wrap: wrap;
+}
+.leftDiv{
+  position: relative;
+  width: 100%;
+  margin: 0%;
+  display: flex;
+}
+}
+@media all and (min-device-width:360px) and (max-device-width:499px) {
+  .mainDiv{
+    flex-wrap: wrap;
+    background: #addeea;
+    width:100%;
+  }
+  .leftDiv{
+    position: relative;
+    width:100%;
+    display: flex;
+  }
+  .rightDiv{
+    width: 100%;
+  }
+}
